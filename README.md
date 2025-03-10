@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Maheesha Dabarera</h1>
-<h3 align="center">A Computer Science and Engineering Undergraduate at University of Moratuwa</h3>
+<h1 style="border-bottom:none;" align="center">Hi 👋, I'm Maheesha Dabarera</h1>
+<p align="center">A Computer Science and Engineering Undergraduate at University of Moratuwa</p>
 
 ---
 
