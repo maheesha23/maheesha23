@@ -72,23 +72,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maheesha23&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&show_icons=true"/>
-<img height="165" src="https://nirzak-streak-stats.vercel.app/?user=maheesha23&theme=cobalt&hide_border=false"/>
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheesha23&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
